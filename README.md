@@ -204,23 +204,18 @@ Durante la carrera y la tecnicatura trabajé con:
 
 <div align="center">
 
-<div align="center">
-
-### 🌸✨ Gracias por visitar mi perfil ✨🌸
-
-💖 Hoy estudiante.
-🚀 Mañana quién sabe.
-⭐ Pero una cosa es segura: pronto va a nacer una estrella. ⭐
+⭐ En constante aprendizaje ⭐
 
 <br>
 
-<img src="https://media.tenor.com/noUl-UImetMAAAAM/un-beso-inmenso-moria-casan.gif" width="250"/>
+<sub>PD: Si llegaste hasta acá...</sub>
 
 <br>
 
-### 💋 Un beso inmenso 💋
+<img src="https://media.tenor.com/noUl-UImetMAAAAM/un-beso-inmenso-moria-casan.gif" width="100"/>
 
-</div>
+<br>
 
+<sub>💋 Un beso inmenso - Moria Casán</sub>
 
 </div>
