@@ -4,8 +4,7 @@
   <img src="assets/banner.png" alt="Banner" width="100%">
 </p>
 
-<div align="center">
-### 💖🎓 Técnica en Programación | Estudiante de Ingeniería en Sistemas 💖
+## 💖🎓 Técnica en Programación | Estudiante de Ingeniería en Sistemas 💖
 
 ✨ Apasionada por el desarrollo de software, el diseño de sistemas y la creación de soluciones que resuelvan problemas reales.
 
