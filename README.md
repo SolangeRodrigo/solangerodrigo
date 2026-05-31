@@ -28,7 +28,7 @@
 
 📚 Actualmente continúo formándome en desarrollo Full Stack, análisis de sistemas y diseño de soluciones escalables.
 
-📍 La Plata, Buenos Aires, Argentina.
+📍Buenos Aires, Argentina.
 
 ---
 
@@ -37,7 +37,7 @@
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 </p>
 
 ### Backend
@@ -55,7 +55,7 @@
 ### Herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
@@ -73,7 +73,7 @@ Sistema de gestión veterinaria orientado a clínicas y consultorios.
 
 ---
 
-### 🎓 CORE
+### 🎓 POSGRADO UTN FRLP
 Sistema de gestión académica para instituciones educativas.
 
 **Características**
@@ -130,6 +130,6 @@ Tienda online de productos para mascotas.
 
 <div align="center">
 
-### ⭐ Gracias por visitar mi perfil
+### ⭐ Gracias por visitar mi perfil ⭐
 
 </div>
