@@ -34,16 +34,22 @@
 
 ## 🛠️ Stack Tecnológico
 
+### Lenguajes
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,haskell" />
+</p>
+
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 </p>
 
 ### Bases de Datos
@@ -52,12 +58,27 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
 </p>
 
-### Herramientas
+### Sistemas Operativos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=linux,windows" />
 </p>
 
+### DevOps & Herramientas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,bash,vscode,figma" />
+</p>
+
+### Otras Tecnologías
+
+- Smalltalk
+- Excel
+- UML
+- BPMN
+- SQL Server
+- Análisis y Diseño de Sistemas
+- Arquitectura de Software
 ---
 
 ## 🚀 Proyectos Destacados
