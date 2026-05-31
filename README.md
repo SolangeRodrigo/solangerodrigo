@@ -94,18 +94,39 @@
 
 Sistema de gestión veterinaria orientado a clínicas y consultorios.
 
+**Tecnologías**
+
+* Python
+* Django
+* PostgreSQL
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+
 **Características**
 
 * Gestión de pacientes
 * Gestión de turnos
 * Historias clínicas
 * Administración de usuarios
+* Gestión de veterinarios
+* Seguimiento de tratamientos
 
 ---
 
 ### 🎓 POSGRADO UTN FRLP
 
-Sistema de gestión académica para instituciones educativas.
+Sistema de gestión académica para programas de posgrado.
+
+**Tecnologías**
+
+* HTML
+* CSS
+* JavaScript
+* Figma
+* UML
+* BPMN
 
 **Características**
 
@@ -113,6 +134,8 @@ Sistema de gestión académica para instituciones educativas.
 * Gestión de materias
 * Seguimiento académico
 * Administración de usuarios
+* Diseño UX/UI
+* Modelado de procesos y requerimientos
 
 ---
 
@@ -120,12 +143,46 @@ Sistema de gestión académica para instituciones educativas.
 
 Tienda online de productos para mascotas.
 
+**Tecnologías**
+
+* HTML5
+* CSS3
+* JavaScript
+* JSON
+* Git
+* GitHub
+
 **Características**
 
 * Catálogo dinámico
 * Carrito de compras
 * Gestión de productos mediante JSON
 * Diseño responsive
+* Experiencia de compra intuitiva
+
+---
+
+### 💻 Proyectos Académicos
+
+Durante la carrera y la tecnicatura trabajé con:
+
+**Tecnologías**
+
+* Haskell
+* Smalltalk
+* Bash
+* Linux
+* SQL Server
+* PostgreSQL
+
+**Temáticas**
+
+* Paradigmas de programación
+* Sistemas operativos
+* Bases de datos
+* Análisis y diseño de sistemas
+* Arquitectura de software
+
 
 ---
 
@@ -147,8 +204,23 @@ Tienda online de productos para mascotas.
 
 <div align="center">
 
+<div align="center">
+
 ### 🌸✨ Gracias por visitar mi perfil ✨🌸
 
-💖 Siempre aprendiendo, creando y mejorando día a día 💖
+💖 Hoy estudiante.
+🚀 Mañana quién sabe.
+⭐ Pero una cosa es segura: pronto va a nacer una estrella. ⭐
+
+<br>
+
+<img src="https://media.tenor.com/noUl-UImetMAAAAM/un-beso-inmenso-moria-casan.gif" width="250"/>
+
+<br>
+
+### 💋 Un beso inmenso 💋
+
+</div>
+
 
 </div>
