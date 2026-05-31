@@ -136,6 +136,12 @@ Tienda online de productos para mascotas.
 </p>
 
 ---
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=solangerodrigo&theme=tokyonight&row=1&column=6" />
+</p>
+---
 
 ## 📚 Actualmente aprendiendo
 
