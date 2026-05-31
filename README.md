@@ -122,9 +122,7 @@ Tienda online de productos para mascotas.
 
 📧 <solangeabigailrodrigo@gmail.com>
 
-💼 <[LINKEDIN](https://www.linkedin.com/in/solangerodrigo/)>
-
-🌐 <PORTFOLIO>
+💼 <https://www.linkedin.com/in/solangerodrigo/>
 
 ---
 
