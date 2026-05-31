@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Ingeniería+en+Sistemas;Full+Stack+Developer;UX%2FUI+Enthusiast;Apasionada+por+la+tecnología+✨" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=24&pause=1200&color=FF69B4&center=true&vCenter=true&width=850&lines=🎓+Técnica+en+Programación;💻+Estudiante+de+Ingeniería+en+Sistemas;🌸+Desarrollo+Web+y+Diseño+de+Sistemas;🗄️+Bases+de+Datos+y+Arquitectura+de+Software;✨+Siempre+aprendiendo+y+creando+nuevos+proyectos" />
 
 </div>
 
