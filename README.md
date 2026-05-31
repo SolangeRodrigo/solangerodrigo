@@ -204,9 +204,9 @@ Durante la carrera y la tecnicatura trabajé con:
 
 <div align="center">
 
-### 🌸✨ Gracias por visitar mi perfil ✨🌸
+### 🌸Gracias por visitar mi perfil🌸
 
-⭐ Hoy estudiante. Mañana quién sabe. ⭐
+⭐ Hoy estudiante. Mañana ingeniera. Pasado mañana leyenda. ⭐
 
 ### 💖 Si llegaste hasta acá, te ganaste un beso de Moria:
 
