@@ -2,7 +2,7 @@
 
 # 🌸 Hola, soy Solange Rodrigo 🌸
 
-### 💖 Estudiante de Ingeniería en Sistemas | Full Stack Developer 💖
+### 💖🎓 Técnica en Programación | Estudiante de Ingeniería en Sistemas 💖
 
 ✨ Apasionada por el desarrollo de software, el diseño de sistemas y la creación de soluciones que resuelvan problemas reales.
 
@@ -129,15 +129,11 @@ Tienda online de productos para mascotas.
 
 ---
 
-## 📊 Estadísticas GitHub
+## 📊 Actividad GitHub
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SolangeRodrigo\&show_icons=true\&theme=rose_pine)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SolangeRodrigo\&layout=compact\&theme=rose_pine)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=solangerodrigo&theme=rose-pine" />
+</p>
 
 ---
 
@@ -149,7 +145,8 @@ Tienda online de productos para mascotas.
 * Diseño UX/UI
 * Patrones de Diseño
 * Sistemas Distribuidos
-
+* Angular
+  
 ---
 
 ## 💌 Contacto
