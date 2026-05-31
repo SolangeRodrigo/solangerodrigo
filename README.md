@@ -141,9 +141,9 @@ Sistema de gestión académica para programas de posgrado.
 
 ---
 
-### 🐶 Patitas al Sol
+### 🥑 Palta al Sol
 
-Tienda online de productos para mascotas.
+Tienda online de productos de supermercado.
 
 **Tecnologías**
 
