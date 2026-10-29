@@ -38,6 +38,11 @@
 
 📍 Buenos Aires, Argentina.
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SolangeRodrigo/SolangeRodrigo/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
 ---
 
 ## 💖 Stack Tecnológico
